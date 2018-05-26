@@ -6,10 +6,9 @@ A simple chat demo for socket.io
 ## How to use
 
 ```
-$ cd socket.io
 $ npm install
-$ cd examples/chat
-$ npm install
+$ npm install --save express
+$ npm install --save socket.io
 $ npm start
 ```
 
