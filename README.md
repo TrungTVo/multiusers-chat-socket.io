@@ -3,7 +3,9 @@
 
 A simple chat demo for socket.io
 
-![giphy](https://user-images.githubusercontent.com/20756728/40580952-bb1dd2ae-6119-11e8-9a77-79237d5bdbb8.gif)
+<img width="1194" alt="screen shot 2018-05-26 at 7 59 34 pm" src="https://user-images.githubusercontent.com/20756728/40581155-47c9940e-611f-11e8-9156-5971a69b0417.png">
+<img width="1280" alt="screen shot 2018-05-26 at 8 01 05 pm" src="https://user-images.githubusercontent.com/20756728/40581174-980133dc-611f-11e8-806d-d8738214ef84.png">
+<img width="1280" alt="screen shot 2018-05-26 at 8 01 34 pm" src="https://user-images.githubusercontent.com/20756728/40581175-980e856e-611f-11e8-8374-b3f46d19e17b.png">
 
 ## How to use
 
